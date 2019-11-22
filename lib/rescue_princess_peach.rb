@@ -1,4 +1,4 @@
-def rescue_princess_peach("rescued")
+def rescue_princess_peach("Hooray! Mario has rescued Princess Peach.")
   status = "rescued"
   puts "Hooray! Mario has rescued Princess Peach."
 end
