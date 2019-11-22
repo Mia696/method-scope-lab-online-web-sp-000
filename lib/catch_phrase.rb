@@ -1,5 +1,7 @@
-def catch_phrase("It's-a me, Mario!\n")
+phrase = "It's-a me, Mario!
+
+def catch_phrase
   puts phrase
 end
 
-catch_phrase("It's-a me, Mario!\n")
+catch_phrase
